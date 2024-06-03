@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/William-Weng/WWPulseLayer",
       "state" : {
-        "branch" : "main",
-        "revision" : "4469f8b4669cb222b568ca110f6dcf5df221f44e"
+        "revision" : "1d9185b679176fcd4fcab1f9cde3f7abb26e7476",
+        "version" : "1.0.0"
       }
     }
   ],
