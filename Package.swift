@@ -12,7 +12,7 @@ let package = Package(
         .library(name: "WWPulseLayer", targets: ["WWPulseLayer"]),
     ],
     targets: [
-        .target(name: "WWPulseLayer"),
+        .target(name: "WWPulseLayer", resources: [.copy("Privacy")]),
     ],
     swiftLanguageVersions: [
         .v5
